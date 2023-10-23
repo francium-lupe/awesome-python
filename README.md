@@ -11,6 +11,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Asynchronous Programming](#asynchronous-programming)
     - [Audio](#audio)
     - [Authentication](#authentication)
+    - [Authorization](#authorization)
     - [Build Tools](#build-tools)
     - [Built-in Classes Enhancement](#built-in-classes-enhancement)
     - [Caching](#caching)
@@ -184,6 +185,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [python-jose](https://github.com/mpdavis/python-jose/) - A JOSE implementation in Python.
     * [python-jwt](https://github.com/davedoesdev/python-jwt) - A module for generating and verifying JSON Web Tokens.
 
+## Authorization 
+    * [Oso Library + Cloud](https://www.osohq.com/) - Batteries-included authorization library for Python 
+    
 ## Build Tools
 
 *Compile software from source code.*
